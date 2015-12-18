@@ -14,3 +14,5 @@ It takes approximately 15-20 turns before the computer can reliably predict the
 user's move.
 
 A GUI is also provided to keep score and print any related info.
+
+![image](https://cloud.githubusercontent.com/assets/10593907/11893834/34a09c52-a528-11e5-89ca-b7473a2a3be9.png)
